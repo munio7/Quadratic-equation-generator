@@ -1,2 +1,2 @@
-# quadratic-equation-generator
-Progam generates quadratic equation with two distinct real root. The discriminant is easily factorable
+# Quadratic-equation-generator
+The program generates a quadratic equation with two distinct real roots. The discriminant is easily factorable, which means its roots yield numbers like 1, 2, 3, 4, 5, etc. In the output, you can find the calculated roots of the equation and the discriminant of randomly generated coefficients of the equation (called A, B, and C). I used it in lessons with my students.
